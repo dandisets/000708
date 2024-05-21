@@ -5,7 +5,7 @@
 "blob":
 "bd0a2987-e55c-46fc-b9de-03a8c67cec7f",
 "created":
-"2023-11-11T16:17:45.985652+00:00",
+"2023-11-11T16:17:45.985652Z",
 "metadata":
 {
 "@context":
@@ -191,7 +191,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:45.985667+00:00",
+"2023-11-11T16:17:45.985667Z",
 "path":
 "sub-Temp-pref-F32-B24-5dpf-11-unsorted-nac/sub-Temp-pref-F32-B24-5dpf-11-unsorted-nac_ses-20231024T121300_behavior.nwb",
 "size":
@@ -203,7 +203,7 @@
 "blob":
 "c36ef711-85e4-47da-9d08-f09fe3d90de8",
 "created":
-"2023-11-11T16:17:45.788274+00:00",
+"2023-11-11T16:17:45.788274Z",
 "metadata":
 {
 "@context":
@@ -389,7 +389,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:45.788291+00:00",
+"2023-11-11T16:17:45.788291Z",
 "path":
 "sub-Temp-pref-F32-B24-5dpf-12-unsorted-nac/sub-Temp-pref-F32-B24-5dpf-12-unsorted-nac_ses-20231024T124500_behavior.nwb",
 "size":
@@ -401,7 +401,7 @@
 "blob":
 "2fb36f81-c913-4498-a0f1-55426ba80e72",
 "created":
-"2023-11-11T16:17:46.550181+00:00",
+"2023-11-11T16:17:46.550181Z",
 "metadata":
 {
 "@context":
@@ -587,7 +587,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:46.550195+00:00",
+"2023-11-11T16:17:46.550195Z",
 "path":
 "sub-Temp-pref-F32-B24-5dpf-13-unsorted-nac/sub-Temp-pref-F32-B24-5dpf-13-unsorted-nac_ses-20231024T131600_behavior.nwb",
 "size":
@@ -599,7 +599,7 @@
 "blob":
 "dfc41ca1-babc-4206-a033-d41980f1e36f",
 "created":
-"2023-11-11T16:17:47.327885+00:00",
+"2023-11-11T16:17:47.327885Z",
 "metadata":
 {
 "@context":
@@ -785,7 +785,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:47.327899+00:00",
+"2023-11-11T16:17:47.327899Z",
 "path":
 "sub-Temp-pref-F32-B24-5dpf-14-unsorted-nac/sub-Temp-pref-F32-B24-5dpf-14-unsorted-nac_ses-20231024T134900_behavior.nwb",
 "size":
@@ -797,7 +797,7 @@
 "blob":
 "3904a275-207e-4dc5-b416-b07bedb5e9f7",
 "created":
-"2023-11-11T16:17:46.041538+00:00",
+"2023-11-11T16:17:46.041538Z",
 "metadata":
 {
 "@context":
@@ -983,7 +983,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:46.041556+00:00",
+"2023-11-11T16:17:46.041556Z",
 "path":
 "sub-Temp-pref-F32-B24-5dpf-15-unsorted-nac/sub-Temp-pref-F32-B24-5dpf-15-unsorted-nac_ses-20231024T142000_behavior.nwb",
 "size":
@@ -995,7 +995,7 @@
 "blob":
 "593ceac1-8ca2-4bce-97b6-b39288d52db3",
 "created":
-"2023-11-11T16:17:48.797222+00:00",
+"2023-11-11T16:17:48.797222Z",
 "metadata":
 {
 "@context":
@@ -1181,7 +1181,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:48.797236+00:00",
+"2023-11-11T16:17:48.797236Z",
 "path":
 "sub-Temp-pref-F32-B24-5dpf-16-unsorted-nac/sub-Temp-pref-F32-B24-5dpf-16-unsorted-nac_ses-20231024T145500_behavior.nwb",
 "size":
@@ -1193,7 +1193,7 @@
 "blob":
 "720195b4-2b91-4dd3-a8b8-d3e8b3009b31",
 "created":
-"2023-11-11T16:17:49.336526+00:00",
+"2023-11-11T16:17:49.336526Z",
 "metadata":
 {
 "@context":
@@ -1379,7 +1379,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:49.336541+00:00",
+"2023-11-11T16:17:49.336541Z",
 "path":
 "sub-Temp-pref-F32-B24-5dpf-17-unsorted-nac/sub-Temp-pref-F32-B24-5dpf-17-unsorted-nac_ses-20231024T152600_behavior.nwb",
 "size":
@@ -1391,7 +1391,7 @@
 "blob":
 "2239f1ca-ba09-41a1-b8f7-e31b2bc71ab7",
 "created":
-"2023-11-11T16:17:49.728857+00:00",
+"2023-11-11T16:17:49.728857Z",
 "metadata":
 {
 "@context":
@@ -1577,7 +1577,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:49.728871+00:00",
+"2023-11-11T16:17:49.728871Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-01-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-01-unsorted-nac_ses-20231019T113100_behavior.nwb",
 "size":
@@ -1589,7 +1589,7 @@
 "blob":
 "b92f3dbc-a03f-4128-a388-433a24adc3c8",
 "created":
-"2023-11-11T16:17:49.823628+00:00",
+"2023-11-11T16:17:49.823628Z",
 "metadata":
 {
 "@context":
@@ -1775,7 +1775,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:49.823643+00:00",
+"2023-11-11T16:17:49.823643Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-02-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-02-unsorted-nac_ses-20231019T120400_behavior.nwb",
 "size":
@@ -1787,7 +1787,7 @@
 "blob":
 "a83fe5d4-d0bd-4467-a1db-400224221282",
 "created":
-"2023-11-11T16:17:50.703291+00:00",
+"2023-11-11T16:17:50.703291Z",
 "metadata":
 {
 "@context":
@@ -1973,7 +1973,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:50.703306+00:00",
+"2023-11-11T16:17:50.703306Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-03-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-03-unsorted-nac_ses-20231019T125600_behavior.nwb",
 "size":
@@ -1985,7 +1985,7 @@
 "blob":
 "41db2aca-000b-4d47-8276-c9096aa3e6c7",
 "created":
-"2023-11-11T16:17:52.056527+00:00",
+"2023-11-11T16:17:52.056527Z",
 "metadata":
 {
 "@context":
@@ -2171,7 +2171,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:52.056543+00:00",
+"2023-11-11T16:17:52.056543Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-04-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-04-unsorted-nac_ses-20231019T132700_behavior.nwb",
 "size":
@@ -2183,7 +2183,7 @@
 "blob":
 "08a8fb76-78e4-45e0-8df3-a5a8236d02b5",
 "created":
-"2023-11-11T16:17:52.460847+00:00",
+"2023-11-11T16:17:52.460847Z",
 "metadata":
 {
 "@context":
@@ -2369,7 +2369,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:52.460860+00:00",
+"2023-11-11T16:17:52.460860Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-05-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-05-unsorted-nac_ses-20231019T140400_behavior.nwb",
 "size":
@@ -2381,7 +2381,7 @@
 "blob":
 "0ceb7094-1f6f-4bec-b44e-2bb26dc4e454",
 "created":
-"2023-11-11T16:17:52.859421+00:00",
+"2023-11-11T16:17:52.859421Z",
 "metadata":
 {
 "@context":
@@ -2567,7 +2567,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:52.859437+00:00",
+"2023-11-11T16:17:52.859437Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-06-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-06-unsorted-nac_ses-20231019T150200_behavior.nwb",
 "size":
@@ -2579,7 +2579,7 @@
 "blob":
 "65c6bfcf-c2fb-4b46-a87d-28510238a209",
 "created":
-"2023-11-11T16:17:52.820540+00:00",
+"2023-11-11T16:17:52.820540Z",
 "metadata":
 {
 "@context":
@@ -2765,7 +2765,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:52.820554+00:00",
+"2023-11-11T16:17:52.820554Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-07-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-07-unsorted-nac_ses-20231019T153500_behavior.nwb",
 "size":
@@ -2777,7 +2777,7 @@
 "blob":
 "48f3e1fc-8f22-4116-94c4-8114dc4a7d1a",
 "created":
-"2023-11-11T16:17:54.452572+00:00",
+"2023-11-11T16:17:54.452572Z",
 "metadata":
 {
 "@context":
@@ -2963,7 +2963,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:54.452587+00:00",
+"2023-11-11T16:17:54.452587Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-08-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-08-unsorted-nac_ses-20231019T161800_behavior.nwb",
 "size":
@@ -2975,7 +2975,7 @@
 "blob":
 "b388a848-29e2-46dd-ad4f-28a573eaf7f6",
 "created":
-"2023-11-11T16:17:54.141887+00:00",
+"2023-11-11T16:17:54.141887Z",
 "metadata":
 {
 "@context":
@@ -3161,7 +3161,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:54.141901+00:00",
+"2023-11-11T16:17:54.141901Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-09-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-09-unsorted-nac_ses-20231019T165000_behavior.nwb",
 "size":
@@ -3173,7 +3173,7 @@
 "blob":
 "c6b341e9-bf45-41b4-8e5b-13bf8e370969",
 "created":
-"2023-11-11T16:17:54.453719+00:00",
+"2023-11-11T16:17:54.453719Z",
 "metadata":
 {
 "@context":
@@ -3359,7 +3359,7 @@
 ]
 },
 "modified":
-"2023-11-11T16:17:54.453736+00:00",
+"2023-11-11T16:17:54.453736Z",
 "path":
 "sub-Temp-pref-F32-B24-7dpf-10-unsorted-nac/sub-Temp-pref-F32-B24-7dpf-10-unsorted-nac_ses-20231019T172200_behavior.nwb",
 "size":
